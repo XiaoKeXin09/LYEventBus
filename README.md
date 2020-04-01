@@ -649,7 +649,7 @@ public enum  YThreadMode {
 
 ## 总结
 
-最后我们根据开源项目 EventBus 实现了自己 [代码传送阵 YEventBus](https://github.com/yangkun19921001/YEventBus) 框架，可以根据 TAG 发送/接收消息。只要了解开源框架原理，根据自己需求改动原有框架或者实现自己的框架都不是太难，加油！
+最后我们根据开源项目 EventBus 实现了自己 [代码传送阵 YEventBus](https://github.com/XiaoKeXin09/LYEventBus) 框架，可以根据 TAG 发送/接收消息。只要了解开源框架原理，根据自己需求改动原有框架或者实现自己的框架都不是太难，加油！
 
 ## 感谢
 
